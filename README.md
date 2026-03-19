@@ -138,7 +138,9 @@ GitHub's public API allows 60 requests/hour without auth. If you hit rate limits
 
 ---
 ## Screenshot
-![Sample Run](https://github.com/user-attachments/assets/5bf0dbf4-4603-4674-bb8c-5e370a7b573e)
+### Commit Report
+![Commit Report](https://github.com/user-attachments/assets/5bf0dbf4-4603-4674-bb8c-5e370a7b573e)
 
-![Sample Run](https://github.com/user-attachments/assets/05eaedbe-b8a0-4060-8550-0ea4349f3168)
+### Repository Summary  
+![Summary](https://github.com/user-attachments/assets/05eaedbe-b8a0-4060-8550-0ea4349f3168)
 
