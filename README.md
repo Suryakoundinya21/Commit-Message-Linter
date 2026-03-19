@@ -135,3 +135,8 @@ GitHub's public API allows 60 requests/hour without auth. If you hit rate limits
 - Compare commit quality over time
 - Add more conventional commit types
 - Support GitLab/Bitbucket APIs
+
+---
+## Screenshot
+![Sample Run](https://github.com/user-attachments/assets/05eaedbe-b8a0-4060-8550-0ea4349f3168)
+
