@@ -1,0 +1,20 @@
+{
+  "name": "commit-linter",
+  "version": "1.0.0",
+  "description": "CLI tool to score and report GitHub commit message quality",
+  "main": "index.js",
+  "bin": {
+    "commit-linter": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "node index.js"
+  },
+  "keywords": ["git", "commits", "linter", "cli", "github"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2"
+  }
+}
