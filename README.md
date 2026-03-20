@@ -144,3 +144,14 @@ GitHub's public API allows 60 requests/hour without auth. If you hit rate limits
 ### Repository Summary  
 ![Summary](https://github.com/user-attachments/assets/05eaedbe-b8a0-4060-8550-0ea4349f3168)
 
+### JSON Output (`--json` flag) 
+**Top of JSON report:**
+![JSON Output Top](https://github.com/user-attachments/assets/3d44f70e-2051-4aac-b9d9-1714fbe6749a)
+
+
+**Bottom of JSON report (overall score):**
+![JSON Output Bottom](https://github.com/user-attachments/assets/02ba1b38-01e2-4098-bba7-b739b202b105)
+
+
+
+
